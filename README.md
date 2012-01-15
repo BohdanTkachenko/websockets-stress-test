@@ -12,5 +12,7 @@ Installation
 ------------
 
 cd websockets-stress-test
+
 npm install
+
 node wsst.js -h
