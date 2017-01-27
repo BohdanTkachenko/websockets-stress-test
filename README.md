@@ -1,6 +1,8 @@
 README
 ======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/BohdanTkachenko/websockets-stress-test.svg)](https://greenkeeper.io/)
+
 Description
 -----------------
 
